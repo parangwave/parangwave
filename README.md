@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parangwave
-- 👀 I’m interested in WebDesign
-- 🌱 I’m currently learning **React**, **python**, **JavaScript**
+- 👀 I’m interested in **Front-end** and **WebDesign**
+- 🌱 I’m currently learning **ReactJS**, **Python**, **JavaScript**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
