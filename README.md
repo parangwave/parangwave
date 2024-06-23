@@ -1,6 +1,7 @@
 
-### Hi! I'm Jisu Oh 👋
+
 <div align="center">
+  <h1>Hi! I'm Jisu Oh 👋</h1>
   <img src="https://github.com/parangwave/parangwave/assets/60279992/27b658ac-de95-4530-9e18-ca02f81b8178">
   <article>
     <p>A <b>front-end developer</b><br/>passionate about creating eye-catching designs <br/>and bringing them to life technically.</p>
