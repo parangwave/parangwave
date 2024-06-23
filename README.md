@@ -4,8 +4,11 @@
   <h1>Hi! I'm Jisu Oh 👋</h1>
   <img src="https://github.com/parangwave/parangwave/assets/60279992/27b658ac-de95-4530-9e18-ca02f81b8178">
   <article>
-    <p>A <b>front-end developer</b><br/>passionate about creating eye-catching designs <br/>and bringing them to life technically.</p>
-    <p>Currently lives in <b>Busan, Korea</b> 🏄</p>
+    <p>I'm a <b>front-end developer</b>
+      <br />passionate about creating visually appealing designs 🎨
+      <br />and bringing them to life 🌬️
+      <br />on the front-end side.</p>
+    <p>Currently reside in <b>Busan, Korea. 🏄</b></p>
   </article>
 </div>
 
