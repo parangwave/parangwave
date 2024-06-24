@@ -17,11 +17,11 @@
 <br/>
 
 ## Projects
-| | Period | Project | Role | Tech Stack | Team/Toy | Release | 
+| | Period | Project | Role | Tech Stack & Tools | Team/Toy | Release | 
 | --- | --- | --- | --- | --- | --- | --- |
-| 3 | 2024.03 ~ 2024.04 | **Pick ME**<br />Online Convinience Store | FE & UI/UX leader, Designer | ES6, React, TailwindCSS, Axios, Springboot, NaverCloud Map API | Team Beez(6)| [Pick ME](https://github.com/beezSSG) |
-| 2 | 2024.02 | **Wise God-Life**<br />University Student Community Service | FE & UI/UX leader, Designer | ES6, JSP, Bootstrap, Jquery, Springboot | Team no.1(3) | ![슬갓생](https://github-readme-stats.vercel.app/api/pin/?username=rog-won&repo=semiproject-wisegodlife&show_owner=false) |
-| 1 | 2023.08 | **TaskStock**<br />To-Do List Service with a Stock Graph | FE, Designer | vanilla JS, Figma, Adobe Illustrator | Team TaskStock(4) | ![taskstock](https://github-readme-stats.vercel.app/api/pin/?username=TaskStock&repo=TaskStock) |
+| 3 | 2024.03 ~ 2024.04 | **Pick ME**<br />Online Convinience Store | FE & UI/UX leader, Designer | JS(ES6), React, TailwindCSS, Axios, Springboot, NaverCloud Map API, Figma | Team Beez(6)| [Pick ME](https://github.com/beezSSG) |
+| 2 | 2024.02 | **Wise God-Life**<br />University Student Community Service | FE & UI/UX leader, Designer | JS(ES6), JSP, Bootstrap, Jquery, Spring, Figma | Team no.1(3) | ![슬갓생](https://github-readme-stats.vercel.app/api/pin/?username=rog-won&repo=semiproject-wisegodlife&show_owner=false) |
+| 1 | 2023.08 | **TaskStock**<br />To-Do List Service with a Stock Graph | FE, Designer | Vanilla JS, Figma, Adobe Illustrator | Team TaskStock(4) | ![taskstock](https://github-readme-stats.vercel.app/api/pin/?username=TaskStock&repo=TaskStock) |
 
 <br/>
 <hr />
